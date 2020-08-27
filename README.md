@@ -5,6 +5,7 @@
 |-------------------|-------------------
 | [**Blogger**](https://blogger-react.herokuapp.com/) | `React` `Node.js` `MongoDB` `Express.js` `Bootstrap`
 | [**Omnifood**](https://abdallahragab40.github.io/omnifood/)  |  `HTML` `CSS` `jQuery` |
+| [**Chat**](https://chats-node.herokuapp.com/)  |  `HTML` `CSS` `JS` `Node.js` `Express.js` `Socket.io` |
 
 <sup>***[Click here](https://github.com/abdallahragab40?tab=repositories)** to view my other projects.</sup>*
 
